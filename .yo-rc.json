@@ -1,0 +1,40 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.roomdevelopers"
+    },
+    "jhipsterVersion": "6.8.0",
+    "applicationType": "monolith",
+    "baseName": "tasks",
+    "packageName": "com.roomdevelopers",
+    "packageFolder": "com/roomdevelopers",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Memory",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "ZjNlNTU5OTI2NzRiZWY4Mzk3NDczZDI3NjNlMzc2NWVjMmMyNDYwMmFkYjkwNDc1OGQ5YTFiNTZkZWMwZDZiMDkyZWQ4NjY3ZmU1YWY1ZGUyOGM5ZGQ5ZmEzY2M4OWJlMGUyMzEwNzljZGVhNzg0ZDdhMDk3M2Q5ZGQ5YWQ5YjE=",
+    "embeddableLaunchScript": false,
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "clientFramework": "angularX",
+    "clientTheme": "none",
+    "clientThemeVariant": "",
+    "creationTimestamp": 1595083191147,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false,
+    "blueprints": []
+  }
+}
